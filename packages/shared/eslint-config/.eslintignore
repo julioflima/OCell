@@ -1,0 +1,6 @@
+# vercel
+.vercel
+/.next
+
+# dependencies
+/node_modules
